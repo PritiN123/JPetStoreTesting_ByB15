@@ -16,6 +16,8 @@ public class RegistrationOfJPetStoreTests {
 	SignUpLocators sl;
 	@BeforeSuite
 	public void openBrowser() {
+		
+		System.out.println("Start");
 		 driver = JPetStoreComman.getDriver();
 		 sl=new SignUpLocators(driver); 
 	}
