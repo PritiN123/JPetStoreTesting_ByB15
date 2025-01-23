@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3129" started-at="2025-01-20T17:59:35 IST" finished-at="2025-01-20T17:59:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3129" started-at="2025-01-20T17:59:35 IST" finished-at="2025-01-20T17:59:38 IST">
+      <class name="com.jpetsore.tests.RegistrationOfJPetStoreTests">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.jpetsore.tests.RegistrationOfJPetStoreTests@75881071]" name="openBrowser" is-config="true" duration-ms="1568" started-at="2025-01-20T17:59:34 IST" finished-at="2025-01-20T17:59:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openJpetStoreRegisterUrl()[pri:0, instance:com.jpetsore.tests.RegistrationOfJPetStoreTests@75881071]" name="openJpetStoreRegisterUrl" is-config="true" duration-ms="970" started-at="2025-01-20T17:59:35 IST" finished-at="2025-01-20T17:59:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openJpetStoreRegisterUrl -->
+        <test-method status="PASS" signature="fillRegisterData()[pri:0, instance:com.jpetsore.tests.RegistrationOfJPetStoreTests@75881071]" name="fillRegisterData" duration-ms="873" started-at="2025-01-20T17:59:36 IST" finished-at="2025-01-20T17:59:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillRegisterData -->
+        <test-method status="PASS" signature="fillRegisterData2()[pri:0, instance:com.jpetsore.tests.RegistrationOfJPetStoreTests@75881071]" name="fillRegisterData2" duration-ms="1161" started-at="2025-01-20T17:59:37 IST" finished-at="2025-01-20T17:59:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillRegisterData2 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.jpetsore.tests.RegistrationOfJPetStoreTests@75881071]" name="closeBrowser" is-config="true" duration-ms="3879" started-at="2025-01-20T17:59:38 IST" finished-at="2025-01-20T17:59:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jpetsore.tests.RegistrationOfJPetStoreTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
